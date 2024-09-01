@@ -1,8 +1,8 @@
-### <img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=940&height=50&lines=Hey%2C+I'm+Parth+Welcome+to+my+Github+Profile!" align="middle" alt="Hey, I'm Parth, Welcome to my Profile! animated typed out">
+### <img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=940&height=50&lines=Hey%2C+I'm+Parth+Welcome+to+my+Github+Profile!" align="middle" alt="Hey, I'm Kartik, Welcome to my Profile! animated typed out">
 
  ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
-👋 A Computer science engineering student working in NextJs & MERN stack 💻, I revel in overcoming intricate challenges and devising inventive solutions in the realm of web development.
+👋 An AI & DS student working in artificial intelligence, machine learning, and data science💻, I revel in overcoming intricate challenges and devising inventive solutions in the realm of web development.
 
 🔧 What sets me apart:
 
@@ -13,10 +13,8 @@
 If you have a thrilling open-source project in need of an extra set of hands, I'd love to dive right in! Feel free to reach out and let's explore the possibilities together.
 
 ## Socials 🌐
-💻 My Portfolio: [NotHuman](https://parthawasthi.vercel.app)
 
-
-🔗 My Linkdin: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/parth-awasthi747/) 
+🔗 My Linkdin: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kartik-vashishtha-579849322/) 
 
 
 📩 For contact, email parthawasthi7478@gmail.com .
@@ -72,7 +70,6 @@ If you have a thrilling open-source project in need of an extra set of hands, I'
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white)   ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)   ![GIT](https://img.shields.io/badge/Git-fc6d26?style=flat&logo=git&logoColor=white)  <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel%20-%23000000.svg?logo=vercel&logoColor=white"></a>   ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)   ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=flat&logo=elasticsearch)   ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white)   ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=flat&logo=nodemon&logoColor=%BBDEAD)   ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white)   ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)   ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white)   
 --->
 
-[![An image of @parth_awasthi's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/parth_awasthi)](https://holopin.io/@parth_awasthi)
 
 
  ##  My GitHub Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> 
@@ -85,15 +82,6 @@ If you have a thrilling open-source project in need of an extra set of hands, I'
 <b>:zap:TOP LANGUAGE </b>
 </p>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nothumanff&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-
-### ✍️ 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-
----
-![](https://visitcount.itsvg.in/api?id=Nothumanff&icon=0&color=0)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!---
