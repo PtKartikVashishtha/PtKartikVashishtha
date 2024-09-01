@@ -1,4 +1,3 @@
-![MasterHead](https://img.freepik.com/premium-vector/colorful-banner-with-hands-working-computer-different-electronic-gadgets-devices-symbols-programming-software-development-program-coding_198278-4192.jpg)
 <h1 align="center">Hi 👋, I'm KARTIK VASHISHTHA</h1>
 <h3 align="center">A passionate developer and programmer.</h3>
 
@@ -62,6 +61,6 @@
     </a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ptkartikvashishtha&show_icons=true&locale=en&layout=compact&langs_count=6&hide=html,css,scss" alt="ptkartikvashishtha" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ptkartikvashishtha&show_icons=true&locale=en&layout=compact&langs_count=6&html,css,scss" alt="ptkartikvashishtha" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ptkartikvashishtha&" alt="ptkartikvashishtha" /></p>
