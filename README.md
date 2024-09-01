@@ -78,13 +78,3 @@ If you have a thrilling open-source project in need of an extra set of hands, I'
 	
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=NotHumanFF&show_icons=true&theme=tokyonight" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=NotHumanFF&theme=tokyonight"/>
-
-<b>:zap:TOP LANGUAGE </b>
-</p>
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<!---
-NotHumanFF/NotHumanFF is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
