@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[![MasterHead](https://img.freepik.com/premium-vector/colorful-banner-with-hands-working-computer-different-electronic-gadgets-devices-symbols-programming-software-development-program-coding_198278-4192.jpg)]
 <h1 align="center">Hi 👋, I'm KARTIK VASHISHTHA</h1>
 <h3 align="center">A passionate developer and programmer.</h3>
 
