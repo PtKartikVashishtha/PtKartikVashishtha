@@ -61,7 +61,7 @@
     </a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ptkartikvashishtha&show_icons=true&locale=en&layout=compact&langs_count=6&hide=html,css,scss" alt="ptkartikvashishtha" /></p>
+
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ptkartikvashishtha&" alt="ptkartikvashishtha" /></p>
