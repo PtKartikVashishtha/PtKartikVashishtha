@@ -2,7 +2,7 @@
 <h3 align="center">A passionate developer and programmer.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ptkartikvashishtha" alt="ptkartikvashishtha" /></a> </p>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
+<img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfB9CYVlo4buD1ZWtX8JWwmqBBkcbm2pPnpw&s">
 
 - 🔭 I’m currently working on **MY SQL AI PROJECT**
 
