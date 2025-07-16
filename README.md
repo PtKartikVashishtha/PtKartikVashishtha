@@ -21,7 +21,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-    <a href="https://www.linkedin.com/in/kartik-vashishtha-579849322" target="blank">
+    <a href="https://www.linkedin.com/in/kartik-vashishtha-7514bb375/" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kartik vashishtha" height="30" width="40" />
     </a>
     <a href="https://instagram.com/itz_kartik.vashishtha_" target="blank">
